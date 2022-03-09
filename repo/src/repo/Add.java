@@ -6,7 +6,8 @@ public class Add {
 		// TODO Auto-generated method stub
 		int a = 8;
 		int b = 4;
-		int c = a + b;
+		int c = 7
+		int c = a + b +c;
 		System.out.println(c);
 		
 	}
