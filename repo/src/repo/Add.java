@@ -7,7 +7,7 @@ public class Add {
 		int a = 8;
 		int b = 4;
 		int c = 7;
-		int c = a + b +c;
+		int d = a + b +c;
 		System.out.println(c);
 		
 	}
